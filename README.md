@@ -76,9 +76,9 @@ No suitable enclosed buildings were found for these parameters.
 With alpha = 1.0, planar shapes and merge operations.
 
 <p float="left">
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example8.png" height="250" />
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/example8_results/Example8_50steps/2021-03-27_14.36.47.png" height="250" /> 
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/example8_results/Example8_20steps_enclosed/2021-03-27_14.47.11.png" height="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example8.png" height="225" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example8_results/Example8_50steps/2021-03-27_14.36.47.png" height="225" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example8_results/Example8_20steps_enclosed/2021-03-27_14.47.11.png" height="225" />
 </p>
 
 
@@ -87,7 +87,7 @@ With alpha = 1.0, planar shapes and merge operations.
 With alpha = 1.0, rectangular shapes and merge operations.
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example9.png" height="250" />
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/example9_results/Example9_50steps/2021-03-27_12.13.58.png" height="500" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example9_results/Example9_50steps/2021-03-27_12.13.58.png" height="250" /> 
 </p>
 
 
