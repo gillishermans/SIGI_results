@@ -8,17 +8,17 @@ Notes:
 
 ##Examples
 <p float="left">
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example1.png" width="200" />
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example2.png" width="200" /> 
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example3.png" width="200" />
- <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example4.png" width="200" />
- <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example5.png" width="200" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example1.png" width="190" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example2.png" width="190" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example3.png" width="190" />
+ <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example4.png" width="190" />
+ <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example5.png" width="190" />
 </p>
 
 <p float="left">
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example6.png" width="200" />
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example7.png" width="200" /> 
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example8.png" width="200" />
- <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example9.png" width="200" />
- <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example10.png" width="200" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example6.png" width="190" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example7.png" width="190" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example8.png" width="190" />
+ <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example9.png" width="190" />
+ <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example10.png" width="190" />
 </p>
