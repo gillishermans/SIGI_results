@@ -7,6 +7,7 @@ Notes:
  - Some enclosed buildings contain buildings seperate from each other. These were connected by one or multiple uncenclosed shapes that were removed during enclosure.
 
 ## Examples
+For each example we show the example, an unenclosed buildings and an enclosed building.
 
 ### Example 1
 <p float="left">
@@ -16,17 +17,10 @@ Notes:
 </p>
 Alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
 
-###Example 2
-
+### Example 2
 <p float="left">
- <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example5.png" width="190" />
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example6.png" width="190" />
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example7.png" width="190" /> 
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example8.png" width="190" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example1.png" width="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example1_results/Example1_20steps/2021-03-20_23.16.31.png" width="250" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example1_results/Example1_20steps_enclosed/2021-03-20_16.27.15.png" width="250" />
 </p>
-
-
-<p float="left">
- <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example9.png" width="190" />
- <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example10.png" width="190" />
-</p>
+Alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
