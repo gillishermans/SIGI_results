@@ -53,9 +53,10 @@ With alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
 With alpha = 1.0, planar shapes and both operations.
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example5.png" width="250" />
-  <img src="" width="250" /> 
-  <img src="" width="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example5_results/Example5_20steps/2021-03-27_15.38.58.png" width="250" /> 
 </p>
+
+No suitable enclosed buildings were found for these parameters.
 
 ### Example 6
 <p float="left">
