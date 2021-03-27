@@ -22,17 +22,17 @@ With alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
 ### Example 2
 With alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
 <p float="left">
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example2.png" width="250" />
-  <img src="" width="250" /> 
-  <img src="" width="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example2.png" height="250" />
+  <img src="" height="250" /> 
+  <img src="" height="250" /> 
 </p>
 
 
 ### Example 3
 With alpha = 1.0, rectangular shapes, merge operations.
 <p float="left">
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example3.png" width="250" />
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/example3_results/Example3_50steps/2021-03-27_14.21.01.png" width="250" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example3.png" height="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example3_results/Example3_50steps/2021-03-27_14.21.01.png" height="250" /> 
 </p>
 
 No suitable enclosed buildings were found for these parameters.
@@ -42,9 +42,9 @@ No suitable enclosed buildings were found for these parameters.
 ### Example 4
 With alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
 <p float="left">
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example4.png" width="250" />
-  <img src="" width="250" /> 
-  <img src="" width="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example4.png" height="250" />
+  <img src="" height="250" /> 
+  <img src="" height="250" /> 
 </p>
 
 
@@ -52,33 +52,33 @@ With alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
 ### Example 5
 With alpha = 1.0, planar shapes and both operations.
 <p float="left">
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example5.png" width="250" />
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/example5_results/Example5_20steps/2021-03-27_15.38.58.png" width="500" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example5.png" height="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example5_results/Example5_20steps/2021-03-27_15.38.58.png" height="250" /> 
 </p>
 
 No suitable enclosed buildings were found for these parameters.
 
 ### Example 6
 <p float="left">
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example6.png" width="250" />
-  <img src="" width="250" /> 
-  <img src="" width="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example6.png" height="250" />
+  <img src="" height="250" /> 
+  <img src="" height="250" /> 
 </p>
 
 ### Example 7
 <p float="left">
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example7.png" width="250" />
-  <img src="" width="250" /> 
-  <img src="" width="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example7.png" height="250" />
+  <img src="" height="250" /> 
+  <img src="" height="250" /> 
 </p>
 
 ### Example 8
 With alpha = 1.0, planar shapes and merge operations.
 
 <p float="left">
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example8.png" width="250" />
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/example8_results/Example8_50steps/2021-03-27_14.36.47.png" width="250" /> 
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/example8_results/Example8_20steps_enclosed/2021-03-27_14.47.11.png" width="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example8.png" height="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example8_results/Example8_50steps/2021-03-27_14.36.47.png" height="250" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example8_results/Example8_20steps_enclosed/2021-03-27_14.47.11.png" height="250" />
 </p>
 
 
@@ -86,8 +86,8 @@ With alpha = 1.0, planar shapes and merge operations.
 ### Example 9
 With alpha = 1.0, rectangular shapes and merge operations.
 <p float="left">
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example9.png" width="250" />
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/example9_results/Example9_50steps/2021-03-27_12.13.58.png" width="500" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example9.png" height="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example9_results/Example9_50steps/2021-03-27_12.13.58.png" height="500" /> 
 </p>
 
 
