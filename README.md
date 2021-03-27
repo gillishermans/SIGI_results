@@ -21,39 +21,71 @@ Alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
 ### Example 2
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example2.png" width="250" />
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/example1_results/Example1_20steps/2021-03-20_23.16.31.png" width="250" /> 
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/example1_results/Example1_20steps_enclosed/2021-03-20_16.27.15.png" width="250" />
+  <img src="" width="250" /> 
+  <img src="" width="250" />
 </p>
 Alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
 
 ### Example 3
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example3.png" width="250" />
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/Example3_results/Example3_50steps/2021-03-27_14.21.01.png" width="250" /> 
-  <img src="" width="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example3_results/Example3_50steps/2021-03-27_14.21.01.png" width="250" /> 
 </p>
 
 Alpha = 1.0, rectangular shapes, merge operations.
 
 ### Example 4
-
+<p float="left">
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example4.png" width="250" />
+  <img src="" width="250" /> 
+  <img src="" width="250" />
+</p>
 
 Alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
 
 ### Example 5
+<p float="left">
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example5.png" width="250" />
+  <img src="" width="250" /> 
+  <img src="" width="250" />
+</p>
 
 ### Example 6
 
+<p float="left">
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example6.png" width="250" />
+  <img src="" width="250" /> 
+  <img src="" width="250" />
+</p>
+
 ### Example 7
+<p float="left">
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example7.png" width="250" />
+  <img src="" width="250" /> 
+  <img src="" width="250" />
+</p>
 
 ### Example 8
+<p float="left">
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example8.png" width="250" />
+  <img src="" width="250" /> 
+  <img src="" width="250" />
+</p>
 
 ### Example 9
-
+<p float="left">
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example9.png" width="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example9_results/Example9_20steps/2021-03-27_14.32.41.png" width="250" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example9_results/Example9_20steps_enclosed/2021-03-27_14.47.11.png" width="250" />
+</p>
 
 Alpha = 1.0, planar shapes, merge operations.
 
 ### Example 10
-
+<p float="left">
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example4.png" width="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example10_results/Example10_50steps/2021-03-27_12.13.58.png" width="250" /> 
+  <img src="" width="250" />
+</p>
 
 Alpha = 1.0, rectangular shapes, merge operations.
