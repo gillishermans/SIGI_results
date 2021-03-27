@@ -83,9 +83,8 @@ Alpha = 1.0, planar shapes, merge operations.
 
 ### Example 10
 <p float="left">
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example4.png" width="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example10.png" width="250" />
   <img src="https://github.com/gillishermans/sigi_results/blob/main/example10_results/Example10_50steps/2021-03-27_12.13.58.png" width="250" /> 
-  <img src="" width="250" />
 </p>
 
 Alpha = 1.0, rectangular shapes, merge operations.
