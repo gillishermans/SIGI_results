@@ -7,12 +7,18 @@ Notes:
  - Some enclosed buildings contain buildings seperate from each other. These were connected by one or multiple uncenclosed shapes that were removed during enclosure.
 
 ##Examples
-<p align="center"> 
-    <img src="https://github.com/gillishermans/SIGI_results/tree/main/Example1_20steps/2021-03-20_23.16.16.png" alt="">
- </p>
+<p float="left">
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example1.png" width="200" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example2.png" width="200" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example3.png" width="200" />
+ <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example4.png" width="200" />
+ <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example5.png" width="200" />
+</p>
 
 <p float="left">
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example1.png" width="100" />
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example2.png" width="100" /> 
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example3.png" width="100" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example6.png" width="200" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example7.png" width="200" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example8.png" width="200" />
+ <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example9.png" width="200" />
+ <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example10.png" width="200" />
 </p>
