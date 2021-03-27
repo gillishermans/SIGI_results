@@ -59,14 +59,14 @@ With alpha = 1.0, planar shapes and both operations.
 
 ### Example 6
 <p float="left">
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example7.png" width="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example6.png" width="250" />
   <img src="" width="250" /> 
   <img src="" width="250" />
 </p>
 
 ### Example 7
 <p float="left">
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example8.png" width="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example7.png" width="250" />
   <img src="" width="250" /> 
   <img src="" width="250" />
 </p>
@@ -75,9 +75,9 @@ With alpha = 1.0, planar shapes and both operations.
 With alpha = 1.0, planar shapes and merge operations.
 
 <p float="left">
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example9.png" width="250" />
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/example9_results/Example9_20steps/2021-03-27_14.32.41.png" width="250" /> 
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/example9_results/Example9_20steps_enclosed/2021-03-27_14.47.11.png" width="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example8.png" width="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example8_results/Example8_50steps/2021-03-27_14.36.47.png" width="250" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example8_results/Example8_20steps_enclosed/2021-03-27_14.47.11.png" width="250" />
 </p>
 
 
@@ -85,8 +85,8 @@ With alpha = 1.0, planar shapes and merge operations.
 ### Example 9
 With alpha = 1.0, rectangular shapes and merge operations.
 <p float="left">
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example10.png" width="250" />
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/example10_results/Example10_50steps/2021-03-27_12.13.58.png" width="250" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example9.png" width="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example9_results/Example9_50steps/2021-03-27_12.13.58.png" width="250" /> 
 </p>
 
 
