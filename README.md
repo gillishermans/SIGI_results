@@ -6,7 +6,7 @@ We generated 10 new buildings for each example with and without enclosure for 20
 Notes:
  - Some enclosed buildings contain buildings seperate from each other. These were connected by one or multiple uncenclosed shapes that were removed during enclosure.
 
-##Examples
+## Examples
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example1.png" width="190" />
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example2.png" width="190" /> 
