@@ -25,3 +25,29 @@ Alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
   <img src="https://github.com/gillishermans/sigi_results/blob/main/example1_results/Example1_20steps_enclosed/2021-03-20_16.27.15.png" width="250" />
 </p>
 Alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
+
+### Example 3
+<p float="left">
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example3.png" width="250" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example1_results/Example1_20steps/2021-03-20_23.16.31.png" width="250" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example1_results/Example1_20steps_enclosed/2021-03-20_16.27.15.png" width="250" />
+</p>
+
+Alpha = 1.0, rectangular shapes, merge operations.
+
+### Example 4
+
+### Example 5
+
+### Example 6
+
+### Example 7
+
+### Example 8
+
+### Example 9
+
+### Example 10
+
+
+Alpha = 1.0, rectangular shapes, merge operations.
