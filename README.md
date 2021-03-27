@@ -53,7 +53,7 @@ With alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
 With alpha = 1.0, planar shapes and both operations.
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example5.png" width="250" />
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/example5_results/Example5_20steps/2021-03-27_15.38.58.png" width="250" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example5_results/Example5_20steps/2021-03-27_15.38.58.png" width="500" /> 
 </p>
 
 No suitable enclosed buildings were found for these parameters.
@@ -87,7 +87,7 @@ With alpha = 1.0, planar shapes and merge operations.
 With alpha = 1.0, rectangular shapes and merge operations.
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example9.png" width="250" />
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/example9_results/Example9_50steps/2021-03-27_12.13.58.png" width="250" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example9_results/Example9_50steps/2021-03-27_12.13.58.png" width="500" /> 
 </p>
 
 
