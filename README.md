@@ -4,6 +4,7 @@ Images of buildings examples and new generated buildings for SIGI https://github
 We generated 5 unenclosed buildings for each example with 20 and 50 production steps and 10 enclosed buildings for each example with 20 and 50 production steps.
 
 Notes:
+ - Empty folders represent empty productions, such as buildings reduced to nothing by the enclosure constraint.
  - Some enclosed buildings contain buildings seperate from each other. These were connected by one or multiple uncenclosed shapes that were removed during enclosure.
 
 ## Examples
