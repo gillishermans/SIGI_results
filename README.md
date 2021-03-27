@@ -58,28 +58,20 @@ With alpha = 1.0, planar shapes and both operations.
 </p>
 
 ### Example 6
-
-<p float="left">
-  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example6.png" width="250" />
-  <img src="" width="250" /> 
-  <img src="" width="250" />
-</p>
-
-### Example 7
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example7.png" width="250" />
   <img src="" width="250" /> 
   <img src="" width="250" />
 </p>
 
-### Example 8
+### Example 7
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example8.png" width="250" />
   <img src="" width="250" /> 
   <img src="" width="250" />
 </p>
 
-### Example 9
+### Example 8
 With alpha = 1.0, planar shapes and merge operations.
 
 <p float="left">
@@ -90,7 +82,7 @@ With alpha = 1.0, planar shapes and merge operations.
 
 
 
-### Example 10
+### Example 9
 With alpha = 1.0, rectangular shapes and merge operations.
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example10.png" width="250" />
