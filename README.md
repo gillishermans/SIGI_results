@@ -32,6 +32,8 @@ Alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
   <img src="https://github.com/gillishermans/sigi_results/blob/main/example3_results/Example3_50steps/2021-03-27_14.21.01.png" width="250" /> 
 </p>
 
+No suitable enclosed buildings were found for these parameters.
+
 Alpha = 1.0, rectangular shapes, merge operations.
 
 ### Example 4
