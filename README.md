@@ -7,12 +7,14 @@ Notes:
  - Some enclosed buildings contain buildings seperate from each other. These were connected by one or multiple uncenclosed shapes that were removed during enclosure.
 
 ## Examples
+
+### Example 1
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example1.png" width="190" />
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example2.png" width="190" /> 
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example3.png" width="190" />
- <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example4.png" width="190" />
 </p>
+Alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
 
 <p float="left">
  <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example5.png" width="190" />
