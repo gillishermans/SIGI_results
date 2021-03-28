@@ -29,6 +29,8 @@ Additional post split applied, that splits large shapes when cut in half by othe
   <img src="https://github.com/gillishermans/sigi_results/blob/main/example2_results/Example2_50steps_enclosed/2021-03-28_11.41.10.png" height="200" /> 
 </p>
 
+Fencing on the roof has been removed by enclosure.
+
 
 ### Example 3
 With alpha = 1.0, rectangular shapes, merge operations.
