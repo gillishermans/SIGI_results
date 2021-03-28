@@ -74,8 +74,8 @@ With alpha = 1.0, planar shapes and merge operations.
 
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example7.png" height="200" />
-  <img src="" height="200" /> 
-  <img src="" height="200" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example7_results/Example7_50steps/2021-03-28_12.20.37.png" height="200" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example7_results/Example7_50steps_enclosed/2021-03-28_12.23.20.png" height="200" /> 
 </p>
 
 ### Example 8
