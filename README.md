@@ -5,7 +5,7 @@ We generated 5 unenclosed and enclosed buildings for each example with 20 and 50
 Results can differ a lot with different shape inference parameters. Here we chose quite straightforward parameters that lead to reasonable results for a lot of the examples. The manual effort of generating these examples was thus relatively low.
 
 Notes: 
- - Slanted roofs (E3,5,9) and cylindrical shapes (E6) seem to be especially problematic for SIGI.
+ - Slanted roofs (E3,5,9) and cylindrical shapes (E6) are especially problematic for SIGI.
  - Non-existant images occur for empty productions, such as buildings reduced to nothing by the enclosure constraint.
  - Some enclosed buildings contain buildings seperate from each other. These were connected by one or multiple uncenclosed shapes that were removed during enclosure.
 
