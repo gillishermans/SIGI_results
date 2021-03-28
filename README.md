@@ -25,8 +25,8 @@ Additional post split applied, that splits large shapes when cut in half by othe
 
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example2.png" height="200" />
-  <img src="" height="200" /> 
-  <img src="" height="200" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example2_results/Example2_50steps/2021-03-28_11.40.30.png" height="200" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example2_results/Example2_50steps_enclosed/2021-03-28_11.41.10.png" height="200" /> 
 </p>
 
 
