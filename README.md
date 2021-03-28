@@ -102,3 +102,14 @@ With alpha = 1.0, rectangular shapes and merge operations.
 </p>
 
 No suitable enclosed buildings were found for these parameters.
+
+### Multiple Examples
+With alpha = 1.0, rectangular shapes, merge operations.
+Additional post split applied, that splits large shapes when cut in half by other shapes.
+
+<p float="left">
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/multiple_examples/multiple_examples.png" height="200" />
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/multiple_examples/multiple_20steps/2021-03-28_20.19.24.png" height="200" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/multiple_examples/multiple_50steps_enclosed/2021-03-28_20.17.09.png" height="200" />
+</p>
+
