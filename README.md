@@ -85,7 +85,7 @@ With alpha = 1.0, planar shapes and merge operations.
   <img src="https://github.com/gillishermans/sigi_results/blob/main/example8_results/Example8_20steps_enclosed/2021-03-27_14.47.11.png" height="200" />
 </p>
 
-
+In this case, planar shapes are horizontal slices of the example building, thus allowing protruding balconies in the enclosed buildings.
 
 ### Example 9
 With alpha = 1.0, rectangular shapes and merge operations.
