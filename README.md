@@ -8,7 +8,7 @@ Notes:
  - Some enclosed buildings contain buildings seperate from each other. These were connected by one or multiple uncenclosed shapes that were removed during enclosure.
 
 ## Results
-For each example we show the example, an unenclosed buildings and an enclosed building.
+For each example we show the example, an unenclosed buildings and an enclosed building (if available).
 
 ### Example 1
 With alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
