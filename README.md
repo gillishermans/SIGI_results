@@ -8,6 +8,7 @@ Notes:
  - Slanted roofs (E3,5,9) and cylindrical shapes (E6) are especially problematic for SIGI.
  - Non-existant images occur for empty productions, such as buildings reduced to nothing by the enclosure constraint.
  - Some enclosed buildings contain buildings seperate from each other. These were connected by one or multiple uncenclosed shapes that were removed during enclosure.
+ - Occasionally a protruding shape still exists after enclosure, because only the shapes that enclose it were removed during enclosure. Thus enclosure shouls instead re-evaluate enclosure until no shapes can be removed.
 
 ## Results
 For each example we show the example, an unenclosed buildings and an enclosed building (if available). 
