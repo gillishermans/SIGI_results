@@ -46,14 +46,16 @@ No suitable enclosed buildings were found for these parameters.
 
 
 ### Example 4
-With alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
+With alpha = 1.0, rectangular shapes, merge operations.
+Additional post split applied, that splits large shapes when cut in half by other shapes.
+
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example4.png" height="200" />
-  <img src="" height="200" /> 
-  <img src="" height="200" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example4_results/Example4_50steps/2021-03-28_12.07.05.png" height="200" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example4_results/Example4_50steps_enclosed/2021-03-28_12.07.41.png" height="200" /> 
 </p>
 
-
+This example has many intersecting shapes that in many cases result in many rules that complicate the derivation process.
 
 ### Example 5
 With alpha = 1.0, planar shapes and both operations.
