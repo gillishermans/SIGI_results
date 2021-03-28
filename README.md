@@ -21,6 +21,8 @@ With alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
 
 ### Example 2
 With alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
+Additional post split applied, that splits large shapes when cut in half by other shapes.
+
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example2.png" height="250" />
   <img src="" height="250" /> 
