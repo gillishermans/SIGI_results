@@ -2,13 +2,14 @@
 Images of buildings examples and new generated buildings for SIGI https://github.com/gillishermans/SIGI.
 
 We generated 5 unenclosed and enclosed buildings for each example with 20 and 50 production steps.
+Results can differ a lot with different shape inference parameters. Here we chose quite straightforward parameters that lead to reasonable results for a lot of the examples. The manual effort of generating these examples was thus relatively low.
 
-Notes:
+Notes: 
  - Non-existant images occur for empty productions, such as buildings reduced to nothing by the enclosure constraint.
  - Some enclosed buildings contain buildings seperate from each other. These were connected by one or multiple uncenclosed shapes that were removed during enclosure.
 
 ## Results
-For each example we show the example, an unenclosed buildings and an enclosed building (if available).
+For each example we show the example, an unenclosed buildings and an enclosed building (if available). 
 
 ### Example 1
 With alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
