@@ -65,10 +65,12 @@ With alpha = 1.0, planar shapes and both operations.
 No suitable enclosed buildings were found for these parameters.
 
 ### Example 6
+With alpha = 1.0, planar shapes and merge operations.
+
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example6.png" height="200" />
-  <img src="" height="200" /> 
-  <img src="" height="200" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example6_results/Example6_50steps/2021-03-27_16.49.51.png" height="200" /> 
+  <img src="https://github.com/gillishermans/sigi_results/blob/main/example6_results/Example6_50steps_enclosed/2021-03-27_16.51.39.png" height="200" /> 
 </p>
 
 ### Example 7
