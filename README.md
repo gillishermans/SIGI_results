@@ -70,6 +70,8 @@ No suitable enclosed buildings were found for these parameters.
 </p>
 
 ### Example 7
+With alpha = 1.0, planar shapes and merge operations.
+
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example7.png" height="200" />
   <img src="" height="200" /> 
