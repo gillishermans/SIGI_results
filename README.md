@@ -94,4 +94,4 @@ With alpha = 1.0, rectangular shapes and merge operations.
   <img src="https://github.com/gillishermans/sigi_results/blob/main/example9_results/Example9_50steps/2021-03-27_12.13.58.png" height="200" /> 
 </p>
 
-
+No suitable enclosed buildings were found for these parameters.
