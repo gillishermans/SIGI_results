@@ -85,6 +85,8 @@ With alpha = 1.0, planar shapes and merge operations.
   <img src="https://github.com/gillishermans/sigi_results/blob/main/example7_results/Example7_50steps_enclosed/2021-03-28_12.23.20.png" height="200" /> 
 </p>
 
+This induced shape grammar has a small generative space, as even without closure most generated artifacts are suitable buildings.
+
 ### Example 8
 With alpha = 1.0, planar shapes and merge operations.
 
