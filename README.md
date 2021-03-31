@@ -14,7 +14,7 @@ Notes:
 For each example we show the example, an unenclosed buildings and an enclosed building (if available). 
 
 ### Example 1
-With alpha = 1.0, rectangular shapes, both operations, overlap allowed.
+With alpha = 1.0, rectangular shapes, both operations and overlap allowed.
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example1.png" height="200" />
   <img src="https://github.com/gillishermans/sigi_results/blob/main/example1_results/Example1_20steps/2021-03-20_23.16.31.png" height="200" /> 
@@ -23,7 +23,7 @@ With alpha = 1.0, rectangular shapes, both operations, overlap allowed.
 
 
 ### Example 2
-With alpha = 1.0, rectangular shapes, both operations, overlap allowed.
+With alpha = 1.0, rectangular shapes, both operations and overlap allowed.
 Additional post split applied, that splits large shapes when cut in half by other shapes.
 
 <p float="left">
@@ -36,7 +36,7 @@ Fencing on the roof has been removed by enclosure.
 
 
 ### Example 3
-With alpha = 1.0, rectangular shapes, merge operations.
+With alpha = 1.0, rectangular shapes and both operations.
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example3.png" height="200" />
   <img src="https://github.com/gillishermans/sigi_results/blob/main/example3_results/Example3_50steps/2021-03-27_14.21.01.png" height="200" /> 
