@@ -14,7 +14,7 @@ Notes:
 For each example we show the example, an unenclosed buildings and an enclosed building (if available). 
 
 ### Example 1
-With alpha = 1.0, rectangular shapes, merge operations, overlap allowed.
+With alpha = 1.0, rectangular shapes, both operations, overlap allowed.
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example1.png" height="200" />
   <img src="https://github.com/gillishermans/sigi_results/blob/main/example1_results/Example1_20steps/2021-03-20_23.16.31.png" height="200" /> 
