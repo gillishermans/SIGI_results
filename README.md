@@ -77,7 +77,7 @@ With alpha = 1.0, planar shapes and merge operations.
 </p>
 
 ### Example 7
-With alpha = 1.0, planar shapes and merge operations.
+With alpha = 1.0, planar shapes and both operations.
 
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example7.png" height="200" />
