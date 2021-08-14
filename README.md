@@ -59,7 +59,7 @@ Additional post split applied, that splits large shapes when cut in half by othe
 This example has many intersecting shapes that in many cases result in many rules that complicate the derivation process.
 
 ### Example 5
-With alpha = 1.0, planar shapes and both operations.
+With alpha = 1.0, 2D shapes and both operations.
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example5.png" height="200" />
   <img src="https://github.com/gillishermans/sigi_results/blob/main/example5_results/Example5_20steps/2021-03-27_15.38.58.png" height="200" /> 
@@ -68,7 +68,7 @@ With alpha = 1.0, planar shapes and both operations.
 No suitable enclosed buildings were found for these parameters.
 
 ### Example 6
-With alpha = 1.0, planar shapes and merge operations.
+With alpha = 1.0, 2D shapes and merge operations.
 
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example6.png" height="200" />
@@ -77,7 +77,7 @@ With alpha = 1.0, planar shapes and merge operations.
 </p>
 
 ### Example 7
-With alpha = 1.0, planar shapes and both operations.
+With alpha = 1.0, 2D shapes and both operations.
 
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example7.png" height="200" />
@@ -88,7 +88,7 @@ With alpha = 1.0, planar shapes and both operations.
 This induced shape grammar has a small generative space, as even without closure most generated artifacts are suitable buildings.
 
 ### Example 8
-With alpha = 1.0, planar shapes and merge operations.
+With alpha = 1.0, 2D shapes and merge operations.
 
 <p float="left">
   <img src="https://github.com/gillishermans/sigi_results/blob/main/examples/example8.png" height="200" />
