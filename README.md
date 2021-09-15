@@ -1,4 +1,4 @@
-# Shape Inference and Grammar Induction from Three-Dimensional Buildings: Examples and Results
+# Shape Inference and Grammar Induction from Three-Dimensional Buildings: Examples, Evaluation and Results
 Images of buildings examples and new generated buildings for SIGI https://github.com/gillishermans/SIGI.
 
 We generated 5 unenclosed and enclosed buildings for each example with 20 and 50 production steps.
@@ -9,6 +9,9 @@ Notes:
  - Non-existant images occur for empty productions, such as buildings reduced to nothing by the enclosure constraint.
  - Some enclosed buildings contain buildings seperate from each other. These were connected by one or multiple uncenclosed shapes that were removed during enclosure.
  - Occasionally a protruding shape still exists after enclosure, because only the shapes that enclose it were removed during enclosure. Thus enclosure shouls instead re-evaluate enclosure until no shapes can be removed.
+
+## Evaluation
+For each example we experimentally evaluated the shape inference procedure. These .txt files contain information on the shape inference parameters and resulting shape sets.
 
 ## Results
 For each example we show the example, an unenclosed buildings and an enclosed building (if available). 
